@@ -19,10 +19,10 @@ dotnet run
 ```
 La URL a la que habrá mandar las peticiones CRUD es: https://localhost:3022
 
-El proyecto contiene un fichero Dockerfile que conteneriza la API exponiendo el puerto 3022 usando el comando ```docker build -t alanz/ecommerceapp:1.0 .```
-
 Contiene también un fichero **ClienteAA.postman_collection.json** con una coleccción Postman con la que probar las peticiones.
 
 Además, al lanzarse la API, se genera un Openapi 3 en la url http://localhost:3022/swagger
 
-Por otro lado, indicar que se ha configurado la API para conectar con la base de datos desplegada en azure en este servidro: alanzserver.database.windows.net
+Por otro lado, indicar que se ha configurado la API para conectar con la base de datos desplegada en azure en este servidor: alanzexamenserver.database.windows.net
+
+Además, la API está desplegada en Azure con la siguiente URL (está conectada a la misma Base de Datos desplegada en Azure): https://alanzcliente1examen.azurewebsites.net
