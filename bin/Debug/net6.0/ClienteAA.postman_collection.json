@@ -1,0 +1,296 @@
+{
+	"info": {
+		"_postman_id": "a0ed6bcf-38b1-4771-8509-d3ad2229ac88",
+		"name": "ClienteAA",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "18551669"
+	},
+	"item": [
+		{
+			"name": "Products",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:3022/products/",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "3022",
+					"path": [
+						"products",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Products {id}",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:3022/products/1002",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "3022",
+					"path": [
+						"products",
+						"1002"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Products",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"name\": \"Intelligent Steel Chips\",\r\n    \"category\": \"Tuna\",\r\n    \"short\": \"New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016\",\r\n    \"description\": \"Sint ab quia. Et sit labore necessitatibus qui autem aut a voluptatibus voluptatem. Inventore dolorem sit eveniet dicta ut blanditiis est a. Atque ipsum quos perferendis enim repudiandae.\\n \\rHic non repudiandae autem aut doloribus doloremque libero eum. Sint ex consequatur a aliquid eaque voluptate numquam. Sequi sit ut qui quia reiciendis consequatur placeat.\\n \\rDolorem at saepe animi dolorem autem harum tenetur soluta molestiae. Quaerat voluptas sunt et. Ducimus fugiat omnis ut. Et non eius tenetur. Numquam officia mollitia impedit.\",\r\n    \"price\": \"780.00\",\r\n    \"mainImage\": \"http://placeimg.com/320/240/abstract?97108\",\r\n    \"disccount\": 0,\r\n    \"images\": \"http://placeimg.com/320/240/abstract?9454\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:3022/products/",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "3022",
+					"path": [
+						"products",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Products",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"name\": \"Intelligent Steel Chips modified\",\r\n    \"category\": \"Tuna\",\r\n    \"short\": \"New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016\",\r\n    \"description\": \"Sint ab quia. Et sit labore necessitatibus qui autem aut a voluptatibus voluptatem. Inventore dolorem sit eveniet dicta ut blanditiis est a. Atque ipsum quos perferendis enim repudiandae.\\n \\rHic non repudiandae autem aut doloribus doloremque libero eum. Sint ex consequatur a aliquid eaque voluptate numquam. Sequi sit ut qui quia reiciendis consequatur placeat.\\n \\rDolorem at saepe animi dolorem autem harum tenetur soluta molestiae. Quaerat voluptas sunt et. Ducimus fugiat omnis ut. Et non eius tenetur. Numquam officia mollitia impedit.\",\r\n    \"price\": \"780.00\",\r\n    \"mainImage\": \"http://placeimg.com/320/240/abstract?97108\",\r\n    \"disccount\": 0,\r\n    \"images\": \"http://placeimg.com/320/240/abstract?9454\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:3022/products/1002",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "3022",
+					"path": [
+						"products",
+						"1002"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Cart",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"productId\": 1002,\r\n    \"quantity\": 1\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:3022/cart",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "3022",
+					"path": [
+						"cart"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Cart",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:3022/cart/",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "3022",
+					"path": [
+						"cart",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Cart",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"productId\": 1002,\r\n    \"quantity\": 10\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:3022/cart/1005",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "3022",
+					"path": [
+						"cart",
+						"1005"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Cart",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:3022/cart/1004",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "3022",
+					"path": [
+						"cart",
+						"1004"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Orders",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:3022/orders",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "3022",
+					"path": [
+						"orders"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Orders {id}",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:3022/orders/2",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "3022",
+					"path": [
+						"orders",
+						"2"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Orders",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"items\": \r\n    [ \r\n        {\r\n            \"productId\":2,\r\n            \"quantity\":1\r\n        }, \r\n        {\r\n            \"productId\": 0, \r\n            \"quantity\": 1\r\n        }\r\n    ]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:3022/orders",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "3022",
+					"path": [
+						"orders"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

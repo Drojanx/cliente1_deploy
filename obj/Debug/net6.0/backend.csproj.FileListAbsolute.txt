@@ -1,0 +1,184 @@
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\appsettings.Development.json
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\appsettings.json
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\Humanizer.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\obj\Debug\net6.0\backend.csproj.AssemblyReference.cache
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\obj\Debug\net6.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\obj\Debug\net6.0\backend.AssemblyInfoInputs.cache
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\obj\Debug\net6.0\backend.AssemblyInfo.cs
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\obj\Debug\net6.0\backend.csproj.CoreCompileInputs.cache
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\obj\Debug\net6.0\staticwebassets.build.json
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\obj\Debug\net6.0\staticwebassets.development.json
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\obj\Debug\net6.0\backend.csproj.CopyComplete
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\obj\Debug\net6.0\backend.genruntimeconfig.cache
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\ClienteAA.postman_collection.json
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\DotNet.Docker.exe
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\DotNet.Docker.deps.json
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\DotNet.Docker.runtimeconfig.json
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\DotNet.Docker.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\bin\Debug\net6.0\DotNet.Docker.pdb
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\obj\Debug\net6.0\DotNet.Docker.MvcApplicationPartsAssemblyInfo.cs
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\obj\Debug\net6.0\DotNet.Docker.MvcApplicationPartsAssemblyInfo.cache
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\obj\Debug\net6.0\scopedcss\bundle\DotNet.Docker.styles.css
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\obj\Debug\net6.0\DotNet.Docker.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\obj\Debug\net6.0\refint\DotNet.Docker.dll
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\obj\Debug\net6.0\DotNet.Docker.pdb
+D:\Grado\2º GRADO PROG\AA_s\DAW Cliente\training-daw-online-2021-projects\ecommerce\backend\obj\Debug\net6.0\ref\DotNet.Docker.dll
+D:\Grado\Nueva carpeta (2)\backend\obj\Debug\net6.0\backend.csproj.AssemblyReference.cache
+D:\Grado\Nueva carpeta (2)\backend\obj\Debug\net6.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Grado\Nueva carpeta (2)\backend\obj\Debug\net6.0\backend.AssemblyInfoInputs.cache
+D:\Grado\Nueva carpeta (2)\backend\obj\Debug\net6.0\backend.AssemblyInfo.cs
+D:\Grado\Nueva carpeta (2)\backend\obj\Debug\net6.0\backend.csproj.CoreCompileInputs.cache
+D:\Grado\Nueva carpeta (2)\backend\obj\Debug\net6.0\DotNet.Docker.MvcApplicationPartsAssemblyInfo.cs
+D:\Grado\Nueva carpeta (2)\backend\obj\Debug\net6.0\DotNet.Docker.MvcApplicationPartsAssemblyInfo.cache
+D:\Grado\Nueva carpeta (2)\backend\obj\Debug\net6.0\DotNet.Docker.dll
+D:\Grado\Nueva carpeta (2)\backend\obj\Debug\net6.0\refint\DotNet.Docker.dll
+D:\Grado\Nueva carpeta (2)\backend\obj\Debug\net6.0\DotNet.Docker.pdb
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\appsettings.Development.json
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\appsettings.json
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\DotNet.Docker.exe
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\DotNet.Docker.deps.json
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\DotNet.Docker.runtimeconfig.json
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\DotNet.Docker.dll
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\DotNet.Docker.pdb
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\Humanizer.dll
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Grado\Nueva carpeta (2)\backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Grado\Nueva carpeta (2)\backend\obj\Debug\net6.0\staticwebassets.build.json
+D:\Grado\Nueva carpeta (2)\backend\obj\Debug\net6.0\staticwebassets.development.json
+D:\Grado\Nueva carpeta (2)\backend\obj\Debug\net6.0\scopedcss\bundle\DotNet.Docker.styles.css
+D:\Grado\Nueva carpeta (2)\backend\obj\Debug\net6.0\backend.csproj.CopyComplete
+D:\Grado\Nueva carpeta (2)\backend\obj\Debug\net6.0\backend.genruntimeconfig.cache
+D:\Grado\Nueva carpeta (2)\backend\obj\Debug\net6.0\ref\DotNet.Docker.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\obj\Debug\net6.0\backend.csproj.AssemblyReference.cache
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\obj\Debug\net6.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\obj\Debug\net6.0\backend.AssemblyInfoInputs.cache
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\obj\Debug\net6.0\backend.AssemblyInfo.cs
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\obj\Debug\net6.0\backend.csproj.CoreCompileInputs.cache
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\obj\Debug\net6.0\DotNet.Docker.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\obj\Debug\net6.0\DotNet.Docker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\obj\Debug\net6.0\DotNet.Docker.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\obj\Debug\net6.0\refint\DotNet.Docker.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\obj\Debug\net6.0\DotNet.Docker.pdb
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\appsettings.json
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\DotNet.Docker.exe
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\DotNet.Docker.deps.json
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\DotNet.Docker.runtimeconfig.json
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\DotNet.Docker.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\DotNet.Docker.pdb
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\Humanizer.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\obj\Debug\net6.0\scopedcss\bundle\DotNet.Docker.styles.css
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\obj\Debug\net6.0\backend.csproj.CopyComplete
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\obj\Debug\net6.0\backend.genruntimeconfig.cache
+C:\Users\droja\OneDrive\Escritorio\EXAMEN CLIENTE 1EV\alanz-examen\alejandro\obj\Debug\net6.0\ref\DotNet.Docker.dll
