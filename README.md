@@ -2,7 +2,7 @@
 ***
 ## _Backend_
 
-Para ejecutar la Base de Datos en Docker:
+Para ejecutar la Base de Datos en Docker (Aunque actualmente está configurada para funcionar con la Base de Datos desplegada en Azure):
 ```
 docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=MyPassword-1234" -p 3012:1433 -d mcr.microsoft.com/mssql/server:2019-latest
 ```
