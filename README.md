@@ -19,7 +19,7 @@ dotnet run
 ```
 La URL a la que habrá mandar las peticiones CRUD es: https://localhost:3022
 
-Contiene también un fichero **ClienteAA.postman_collection.json** con una coleccción Postman con la que probar las peticiones.
+Contiene también un fichero **Examen Cliente 1 Ev.postman_collection.json** con una coleccción Postman con la que probar las peticiones.
 
 Además, al lanzarse la API, se genera un Openapi 3 en la url http://localhost:3022/swagger
 

@@ -1,0 +1,253 @@
+{
+	"info": {
+		"_postman_id": "2081a367-5708-4101-add6-1936df4f1ce4",
+		"name": "Examen Cliente 1 Ev",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "18551669"
+	},
+	"item": [
+		{
+			"name": "Users",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:3022/users",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "3022",
+					"path": [
+						"users"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Users {userId}",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:3022/users/1",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "3022",
+					"path": [
+						"users",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Users {userId}",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"username\": \"Patata\",\r\n  \"posts\": []\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:3022/users/3",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "3022",
+					"path": [
+						"users",
+						"3"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Users",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"username\": \"User2\",\r\n  \"posts\": []\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:3022/users/",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "3022",
+					"path": [
+						"users",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Users",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:3022/users/2",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "3022",
+					"path": [
+						"users",
+						"2"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Posts",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:3022/posts",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "3022",
+					"path": [
+						"posts"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Posts {postId}",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:3022/posts/1",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "3022",
+					"path": [
+						"posts",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Posts {postId}",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"userId\": 1,\r\n  \"title\": \"Titulo de prueba 1 modificado\",\r\n  \"body\": \"Body de prueba 1 modificado\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:3022/posts/1",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "3022",
+					"path": [
+						"posts",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Posts",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"userId\": 2,\r\n  \"title\": \"Titulo de prueba 3\",\r\n  \"body\": \"Body de prueba 3\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:3022/posts/1",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "3022",
+					"path": [
+						"posts",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Posts",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:3022/posts/3",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "3022",
+					"path": [
+						"posts",
+						"3"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
